@@ -1,0 +1,20 @@
+{
+  "name": "mybaby",
+  "version": "0.0.1",
+  "authors": [
+    "fangwei <fangweifzfj@163.com>"
+  ],
+  "description": "this is my first try using bower. hope it works well with github.",
+  "license": "MIT",
+  "homepage": "yew",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0"
+  }
+}
